@@ -8,10 +8,10 @@ The RestAPI Backend, a Node-Express server which can be deployed to a cloud serv
 The Image Filtering Microservice, the final project for the course. It is a Node-Express application which runs a simple script to process images. [Your assignment]
 Tasks
 
-##Setup Node Environment
+## Setup Node Environment
 You'll need to create a new node server. Open a new terminal within the project directory and run:
 
-##Initialize a new project: npm i
+## Initialize a new project: npm i
 run the development server with npm run dev
 
 Create a new endpoint in the server.ts file
